@@ -15,7 +15,7 @@ The periodic table is also useful for understanding the chemical behavior of ele
 In conclusion, the periodic table is a vital tool for understanding the chemical elements and their properties. It provides a way to organize and understand the chemical behavior of elements and their compounds, and it facilitates the discovery of new elements and compounds. The periodic table is an essential tool for chemists and other scientists, and it continues to be an important part of the study of chemistry today.
 
 
-<h3> Information On the Project how hyperlinks are used to Show Periodic Tabl</h3>
+<h3> Information On the Project how hyperlinks are used to Show Periodic Table</h3>
 
 * An interactive periodic table with HTML info would include hyperlinks that allow users to access additional information about each element by clicking on its chemical symbol. These hyperlinks can be programmed to direct the user to a specific webpage or section of the website that provides more in-depth information about the element, such as its atomic structure, physical properties, and chemical properties.
 
